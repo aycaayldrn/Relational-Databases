@@ -23,4 +23,4 @@ Functionalities:
 4-Can we generate a report on the projects associated with each client?
 5-Can we assess the performance of each worker based on their involvement in completed projects?
 
-I have additionally implemented T-SQL and PL/SQL to generate actions that an architecture office may need. 
+I have also developed T-SQL and PL/SQL scripts to automate tasks relevant to architectural office workflows, along with providing comprehensive query examples for the Oracle database to facilitate data analysis and comprehension.
